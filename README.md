@@ -8,4 +8,4 @@ Some recent papers on Knowledge Graph Reasoning
 
 2.  **Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning** Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum. *ICLR 2018* [Paper](https://openreview.net/pdf?id=Syg-YfWCW). [Code](https://github.com/shehzaadzd/MINERVA)
 
-3.  **Variational Knowledge Graph Reasoning** Wenhu Chen, Wenhan Xiong, Xifeng Yan and William Yang Wang. *NAACL HLT 2018* [Paper](https://arxiv.org/pdf/1707.06690.pdf)
+3.  **Variational Knowledge Graph Reasoning** Wenhu Chen, Wenhan Xiong, Xifeng Yan and William Yang Wang. *NAACL HLT 2018* [Paper](https://www.aclweb.org/anthology/N18-1165)
